@@ -1,0 +1,88 @@
+const products = [
+  {
+    id: "hoo001",
+    type: "hoodie",
+    title: `Худи "ЗИП"`,
+    price: 5500,
+    photoUrl: "./products/hoodies/hoo001_zip.jpg",
+  },
+  {
+    id: "hoo002",
+    type: "hoodie",
+    title: `Худи "База"`,
+    price: 5900,
+    photoUrl: "./products/hoodies/hoo002_baza.jpg",
+  },
+  {
+    id: "hoo003",
+    type: "hoodie",
+    title: `Худи "Лампас"`,
+    price: 4900,
+    photoUrl: "./products/hoodies/hoo003_lampas.jpg",
+  },
+  {
+    id: "hoo004",
+    type: "hoodie",
+    title: `Худи "Зенит x Питерский щит"`,
+    price: 6990,
+    photoUrl: "./products/hoodies/hoo004_zip_piterskiy.jpg",
+  },
+  {
+    id: "tsh001",
+    type: "t-shirt",
+    title: `Футболка "База"`,
+    price: 2500,
+    photoUrl: "./products/t-shirts/tsh001_baza.jpg",
+  },
+  {
+    id: "tsh002",
+    type: "t-shirt",
+    title: `Футболка "Дюны"`,
+    price: 3200,
+    photoUrl: "./products/t-shirts/tsh002_duny.jpg",
+  },
+  {
+    id: "tsh003",
+    type: "t-shirt",
+    title: `Футболка "Смертельная игра"`,
+    price: 2800,
+    photoUrl: "./products/t-shirts/tsh003_smertelnaya_igra.jpg",
+  },
+  {
+    id: "tsh004",
+    type: "t-shirt",
+    title: `Футболка "Выстрел взглядом"`,
+    price: 2800,
+    photoUrl: "./products/t-shirts/tsh004_vystrel_vzglyadom.jpg",
+  },
+  {
+    id: "tro001",
+    type: "trousers",
+    title: `Брюки "Тактик"`,
+    price: 8900,
+    photoUrl: "./products/trousers/tro001_taktik.jpg",
+  },
+  {
+    id: "tro002",
+    type: "trousers",
+    title: `Брюки "Мастер"`,
+    price: 8900,
+    photoUrl: "./products/trousers/tro002_master.jpg",
+  },
+  {
+    id: "tro003",
+    type: "trousers",
+    title: `Брюки "Турбо"`,
+    price: 8900,
+    photoUrl: "./products/trousers/tro003_turbo.jpg",
+  },
+  {
+    id: "tro004",
+    type: "trousers",
+    title: `Брюки "Лампас"`,
+    price: 8900,
+    photoUrl: "./products/trousers/tro004_lampas.jpg",
+  },
+];
+
+export default products;
